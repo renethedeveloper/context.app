@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div>
-      <h1>My Context App</h1>
+      <h1>My Context SApp</h1>
       <Navbar />
       <Routes>
         <Route path="/" element={<Products />} />
